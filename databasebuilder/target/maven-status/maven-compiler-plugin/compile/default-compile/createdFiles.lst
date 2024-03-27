@@ -1,0 +1,9 @@
+com\db\asgnmt\databasebuilder\persistence\UserWriter.class
+com\db\asgnmt\databasebuilder\services\QueryService.class
+com\db\asgnmt\databasebuilder\App.class
+com\db\asgnmt\databasebuilder\persistence\QueryWriter.class
+com\db\asgnmt\databasebuilder\entities\User.class
+com\db\asgnmt\databasebuilder\logo\Logo.class
+com\db\asgnmt\databasebuilder\manager\QueryManager.class
+com\db\asgnmt\databasebuilder\manager\UserManager.class
+com\db\asgnmt\databasebuilder\services\UserService.class

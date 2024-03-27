@@ -1,0 +1,154 @@
+{
+  "GDC": {
+    "Contractor": {
+      "serverLocation": "Washington DC",
+      "serverUrl": "jdbc:mysql://34.85.185.74:3306/project",
+      "serverUname": "root",
+      "serverPass": "projectgroup1"
+    },
+    "ITEM": {
+      "serverLocation": "Washington DC",
+      "serverUrl": "jdbc:mysql://34.85.185.74:3306/project",
+      "serverUname": "root",
+      "serverPass": "projectgroup1"
+    },
+    "ITEM_SUPPLIER": {
+      "serverLocation": "Washington DC",
+      "serverUrl": "jdbc:mysql://34.85.185.74:3306/project",
+      "serverUname": "root",
+      "serverPass": "projectgroup1"
+    },
+    "Payment": {
+      "serverLocation": "Washington DC",
+      "serverUrl": "jdbc:mysql://34.85.185.74:3306/project",
+      "serverUname": "root",
+      "serverPass": "projectgroup1"
+    },
+    "ShareHolder": {
+      "serverLocation": "Washington DC",
+      "serverUrl": "jdbc:mysql://34.85.185.74:3306/project",
+      "serverUname": "root",
+      "serverPass": "projectgroup1"
+    },
+    "Department": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "ConferenceRoom": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "EVENT": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "EVENT_ATTENDEES": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "FEEDBACK": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "Facility": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "GUEST_MEMBERSHIP": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "GUEST_OFFERS": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "Guest": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "MEMBERSHIP": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "MENU": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "Maintenance": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "PACKAGES": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "PROMOTION": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "RESTAURANT": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "Reservation": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "RoomAvailability": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "RoomDetails": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "Staff": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    },
+    "Supplier": {
+      "serverLocation": "Singapore",
+      "serverUrl": "jdbc:mysql://34.143.250.187:3306/thailand_server",
+      "serverUname": "root",
+      "serverPass": "raj123"
+    }
+  }
+}
